@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/secret-project/static/css/main.c3343c2e.css",
+    "main.js": "/secret-project/static/js/main.cc91d496.js",
+    "static/media/pics.png": "/secret-project/static/media/pics.7190182183fe9b730d59.png",
+    "static/media/Secret.svg": "/secret-project/static/media/Secret.35e1c1b9bddcb9541767d6cd29e96776.svg",
+    "index.html": "/secret-project/index.html",
+    "main.c3343c2e.css.map": "/secret-project/static/css/main.c3343c2e.css.map",
+    "main.cc91d496.js.map": "/secret-project/static/js/main.cc91d496.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3343c2e.css",
+    "static/js/main.cc91d496.js"
+  ]
+}
